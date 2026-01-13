@@ -5,39 +5,39 @@ const contactBar = {
   contactItems: [
     {
       type: "email",
-      label: "hello@imsruthi.com",
+      label: "official.moizakhtar@gmail.com",
       icon: "/images/icon/mail-icon.svg",
-      link: "mailto:hello@imsruthi.com"
+      link: "mailto:official.moizakhtar@gmail.com"
     },
     {
       type: "phone",
-      label: "+901 5588 2500",
+      label: "+92 303 3533388",
       icon: "/images/icon/call-icon.svg",
-      link: "tel:+90155882500"
+      link: "tel:+923033533388"
     },
     {
       type: "website",
-      label: "www.mywebsite.com",
+      label: "moizakhtar.com",
       icon: "/images/icon/web-icon.svg",
-      link: "https://www.mywebsite.com"
+      link: "https://moiz-sooty.vercel.app/"
     }
   ],
   socialItems: [
-    {
-      platform: "dribbble",
-      icon: "/images/icon/dribble-icon.svg",
-      link: "https://dribbble.com"
-    },
+   // {
+   //   platform: "dribbble",
+   //   icon: "/images/icon/dribble-icon.svg",
+   //   link: "https://dribbble.com"
+  //  },
     {
       platform: "linkedin",
       icon: "/images/icon/linkedin-icon.svg",
-      link: "https://linkedin.com"
+      link: "https://www.linkedin.com/in/moiz-abdul-rauf/"
     },
-    {
-      platform: "facebook",
-      icon: "/images/icon/facebook-icon.svg",
-      link: "https://facebook.com"
-    }
+   // {
+   //   platform: "facebook",
+   //   icon: "/images/icon/facebook-icon.svg",
+   //   link: "https://facebook.com"
+   // }
   ]
 };
 

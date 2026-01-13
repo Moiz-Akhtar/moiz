@@ -13,7 +13,7 @@ const index = () => {
                                 <Image src={"/images/home/banner/wave-icon.svg"} alt="wave-icon" width={62} height={62} className=""/>
                                 </div>
                             </div>
-                            <h1>Website Developer</h1>
+                            <h3>Website Developer</h3>
                             <h3>Wordpress, Shopify, Frontend, SEO</h3>
                         </div>
                         <p className="text-secondary font-normal max-w-md xl:max-w-xl">I ensure businesses flourish by creating websites that are beautiful as fast. More than 6 years of creating the most trusted platforms on the web. I focus on transforming imaginative ideas into high speed, scalable and aesthetically refined digital products enabling companies to be at the forefront in their industry.</p>
