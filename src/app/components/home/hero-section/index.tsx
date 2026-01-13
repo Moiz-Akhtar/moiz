@@ -18,11 +18,11 @@ const index = () => {
                         </div>
                         <p className="text-secondary font-normal max-w-md xl:max-w-xl">I ensure businesses flourish by creating websites that are beautiful as fast. More than 6 years of creating the most trusted platforms on the web. I focus on transforming imaginative ideas into high speed, scalable and aesthetically refined digital products enabling companies to be at the forefront in their industry.</p>
                     </div>
-                    <Image src={"/images/home/banner/banner-img-moiz.jpg"} alt="banner-img" width={685} height={650} className="block lg:hidden" />
+                    <Image src={"/images/home/banner/banner-img-moiz.jpg"} alt="banner-img" width={650} height={650} className="block lg:hidden" />
                 </div>
             </div>
             <div className="absolute right-0 top-0 hidden h-auto w-1/2 lg:block 2xl:h-171.5 2xl:w-187.5">
-                <Image src={"/images/home/banner/banner-img-moiz.jpg"} alt="banner-img" width={685} height={650} className=" absolute right-0 top-0 z-1" />
+                <Image src={"/images/home/banner/banner-img-moiz.jpg"} alt="banner-img" width={650} height={650} className=" absolute right-0 top-0 z-1" />
             </div>
         </section>
     )
