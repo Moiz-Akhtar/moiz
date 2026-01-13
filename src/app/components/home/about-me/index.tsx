@@ -67,7 +67,7 @@ const AboutMe = () => {
                                         <p className="text-base xl:text-xl text-black">Language</p>
                                     </div>
                                     <div className="flex flex-wrap justify-center items-center gap-2.5">
-                                        {["English", "Hindi", "Malayalam"].map((lang, index) => (
+                                        {["English", "Urdu", "Punjabi"].map((lang, index) => (
                                             <Badge key={index} asChild>
                                                 <p className="bg-white py-2 md:py-3.5 px-4 md:px-5 text-base xl:text-xl text-secondary">
                                                     {lang}
