@@ -13,7 +13,7 @@ const Footer = () => {
                         </div>
                         <div className="flex-grow h-px bg-black" />
                     </div>
-                    <p className="text-secondary">2026 © Designed by <Link href={"https://getnextjstemplates.com/"} className="hover:text-black">getnextjstemplates.</Link> - All rights reserved.</p>
+                    <p className="text-secondary">2026 © All rights reserved.</p>
                 </div>
             </div>
         </footer>
