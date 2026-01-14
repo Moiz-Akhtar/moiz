@@ -3,32 +3,25 @@ import React from 'react';
 const ExperienceSec = () => {
     const experiences = [
         {
-            year: "2018",
-            title: "Junior UX Designer",
-            company: "www.startup.com",
+            year: "2023-Present",
+            title: "Wordpress / Shopify Developer",
+            company: "www.matchboxadvertising.com",
             type: "Fulltime",
-            description: "Suffered alteration in some form by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum"
+            description: "Working on quality WordPress and Shopify projects, transforming designs into functional websites, optimization, and working in cross-functional teams."
         },
         {
-            year: "2019",
-            title: "Senior UX Designer",
-            company: "www.googly.com",
-            type: "Remote",
-            description: "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem"
+            year: "2022-2023",
+            title: "Website Developer",
+           // company: "www.googly.com",
+            type: "Fulltime",
+            description: "Worked as a Senior Web-Developer at a multi brand online marketplace, which was a single platform serving several fashion brands. WordPress and Shopify web development, including theme customisation, performance improvement, and improved UX to support high-traffic campaigns."
         },
         {
             year: "2020-2022",
-            title: "Team Lead Designer",
-            company: "www.company.com",
+            title: "Website Developer / Team Lead",
+            company: "www.tsorbit.com",
             type: "Fulltime",
-            description: "Handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated"
-        },
-        {
-            year: "2023+",
-            title: "Team Lead Designer",
-            company: "www.latest.com",
-            type: "Fulltime",
-            description: "Release of Letraset sheets containing Lorem Ipsum passages and more recently with desktop publishing software"
+            description: "Created responsive websites and landing pages to design to launch with high concern to UX and mobile-first design."
         }
     ];
 
