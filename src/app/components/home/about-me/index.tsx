@@ -35,12 +35,12 @@ const AboutMe = () => {
 
                             <div className="w-full lg:max-w-2xl flex-1">
                                 <p>
-                                    I work as Senior Web Developer and have more than five years of experience in designing and 
+                                    I work as <b>Website Developer</b> and have more than <b>Six years</b> of experience in designing and 
                                     developing modern, responsive and high performance websites. I have worked with agencies, startups, 
                                     and e-commercial businesses to provide them with stable, scalable and maintainable web solutions.
 
-                                    I have the most knowledge in WordPress and Shopify development, frontend implementation, optimizing performance, 
-                                    and site architecture that is friendly to SEO. I specialize in the translation of the design concepts into realistic, 
+                                    I have the most knowledge in <b>WordPress</b> and <b>Shopify development</b>, <b>frontend implementation</b>, <b>optimizing performance</b>, 
+                                    and <b>site architecture<b> that is friendly to SEO. I specialize in the translation of the design concepts into realistic, 
                                     properly organized digital products that were balanced in the visual quality and technical stability.
                                 </p>
 
