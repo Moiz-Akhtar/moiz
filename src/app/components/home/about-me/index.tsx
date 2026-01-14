@@ -35,12 +35,13 @@ const AboutMe = () => {
 
                             <div className="w-full lg:max-w-2xl flex-1">
                                 <p>
-                                    There are many variations of passages of Lorem Ipsum
-                                    available, but the majority have suffered alteration in some
-                                    form, by injected humour, or randomised words which don't look
-                                    even slightly believable. If you are going to use a passage of
-                                    Lorem Ipsum, you need to be sure there isn't anything
-                                    embarrassing hidden in the middle of text.
+                                    I work as Senior Web Developer and have more than five years of experience in designing and 
+                                    developing modern, responsive and high performance websites. I have worked with agencies, startups, 
+                                    and e-commercial businesses to provide them with stable, scalable and maintainable web solutions.
+
+                                    I have the most knowledge in WordPress and Shopify development, frontend implementation, optimizing performance, 
+                                    and site architecture that is friendly to SEO. I specialize in the translation of the design concepts into realistic, 
+                                    properly organized digital products that were balanced in the visual quality and technical stability.
                                 </p>
 
                                 <div className="grid grid-cols-3 py-10 xl:py-16 gap-5 border-b border-gray-300">
