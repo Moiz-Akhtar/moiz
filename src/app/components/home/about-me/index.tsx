@@ -40,7 +40,7 @@ const AboutMe = () => {
                                     and e-commercial businesses to provide them with stable, scalable and maintainable web solutions.
 
                                     I have the most knowledge in <b>WordPress</b> and <b>Shopify development</b>, <b>frontend implementation</b>, <b>optimizing performance</b>, 
-                                    and <b>site architecture<b> that is friendly to SEO. I specialize in the translation of the design concepts into realistic, 
+                                    and <b>site architecture</b> that is friendly to SEO. I specialize in the translation of the design concepts into realistic, 
                                     properly organized digital products that were balanced in the visual quality and technical stability.
                                 </p>
 
