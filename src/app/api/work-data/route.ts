@@ -8,34 +8,46 @@ const workData = [
         slug: "nutrislife-web-design"
     },
     {
-        image: "/images/work/work-img-2.jpg",
-        title: "Mobile App Design",
-        client: "John Honnai",
-        slug: "mobile-app-design"
+        image: "/images/work/999.jpg",
+        title: "Website Development and Maintainance",
+        client: "Nine Ninety Nine",
+        slug: "florent-development"
     },
     {
-        image: "/images/work/work-img-3.jpg",
-        title: "Fashion Website Template",
-        client: "John Honnai",
-        slug: "fashion-website-template"
+        image: "/images/work/florentpakistan.webp",
+        title: "Website Development and Maintainance",
+        client: "Florent Pakistan",
+        slug: "florent-development"
     },
     {
-        image: "/images/work/work-img-4.jpg",
-        title: "Book Cover Design",
-        client: "John Honnai",
-        slug: "book-cover-design"
+        image: "/images/work/Travel & More.jpg",
+        title: "Website Design & development",
+        client: "Travel & More",
+        slug: "travel-website-template"
     },
     {
-        image: "/images/work/work-img-5.jpg",
-        title: "Mobile App Design",
-        client: "John Honnai",
-        slug: "mobile-app-design"
+        image: "/images/work/ostruce.jpg",
+        title: "Website Development",
+        client: "Ostruce",
+        slug: "ostruce-design"
     },
     {
-        image: "/images/work/work-img-6.jpg",
-        title: "Mug Sticker Designing",
-        client: "John Honnai",
-        slug: "mug-sticker-designing"
+        image: "/images/work/Matchless Adventures.jpg",
+        title: "Website Maintainance & upgradation",
+        client: "Matchbox Advertising",
+        slug: "adventures-upgradation"
+    },
+    {
+        image: "/images/work/Mariam Javaid Law Associates.jpg",
+        title: "MJLA | Website Development",
+        client: "Matchbox Advertising",
+        slug: "mjla-development"
+    },
+    {
+        image: "/images/work/Matchless travels Inc.jpg",
+        title: "Website Development & Maintainance",
+        client: "Matchbox Advertising",
+        slug: "matchless-travels"
     }
 ];
 
