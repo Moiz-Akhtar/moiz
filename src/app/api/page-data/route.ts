@@ -45,37 +45,37 @@ const contactBar = {
 const educationData = {
   education: [
     {
-      title: "Lipsum Collage - 2010",
-      description: "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form Koramangala collage."
+      title: "Master of Computer Science (MCS) – 2018",
+      description: "Institute of Management and Sciences, Lahore"
     },
     {
-      title: "Master Diploma - 2012",
-      description: "Combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable."
+      title: "Bachelor of Science (2015)",
+      description: "University of the Punjab, Lahore"
     },
     {
-      title: "Master in User Experience - 2014",
-      description: "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration."
+      title: "Professional Web Development Experience – 2016 to Present",
+      description: "Hands-on industry experience working with WordPress, Shopify, frontend & backend technologies, and real-world client projects across multiple domains."
     }
   ],
   skills: [
     {
-      name: "Figma",
-      icon: "/images/home/education-skill/figma-icon.svg",
+      name: "Wordpress",
+      icon: "/images/home/education-skill/cdnlogo.com_wordpress.svg",
+      rating: 5
+    },
+    {
+      name: "Shopify",
+      icon: "/images/home/education-skill/shopify-2.svg",
       rating: 5
     },
     {
       name: "Photoshop",
       icon: "/images/home/education-skill/photoshop-icon.svg",
-      rating: 5
+      rating: 3
     },
     {
-      name: "Sketch",
-      icon: "/images/home/education-skill/sketch-icon.svg",
-      rating: 4
-    },
-    {
-      name: "Adobe XD",
-      icon: "/images/home/education-skill/adobe-icon.svg",
+      name: "Frontend Languages",
+      icon: "/images/home/education-skill/html+css+javascript.png",
       rating: 4
     },
     {
@@ -84,9 +84,9 @@ const educationData = {
       rating: 5
     },
     {
-      name: "Invasion",
-      icon: "/images/home/education-skill/invision-icon.svg",
-      rating: 3
+      name: "Webflow",
+      icon: "/images/home/education-skill/Webflow New.svg",
+      rating: 4
     }
   ]
 }
