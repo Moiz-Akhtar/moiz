@@ -5,7 +5,8 @@ import Logo from "../logo";
 
 const Header = () => {
     const handleDownloadPDF = () => {
-        window.print();
+        window.open("/resume/MoizAkhtarresume.pdf", "_blank");
+        // window.print();
     };
     return (
         <header className="navbar top-0 left-0 z-999 w-full absolute">
