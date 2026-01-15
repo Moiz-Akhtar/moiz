@@ -12,7 +12,7 @@ const ExperienceSec = () => {
         {
             year: "2022-2023",
             title: "Website Developer",
-           // company: "www.googly.com",
+            company: "Kaprang",
             type: "Fulltime",
             description: "Worked as a Senior Web-Developer at a multi brand online marketplace, which was a single platform serving several fashion brands. WordPress and Shopify web development, including theme customisation, performance improvement, and improved UX to support high-traffic campaigns."
         },
