@@ -2,10 +2,10 @@ import { NextResponse } from "next/server";
 
 const workData = [
     {
-        image: "/images/work/work-img-1.jpg",
-        title: "Mug Sticker Designing",
-        client: "John Honnai",
-        slug: "mug-sticker-designing"
+        image: "/images/work/nutrislife.jpg",
+        title: "Website Development & Optimization",
+        client: "Nutrislife",
+        slug: "nutrislife-web-design"
     },
     {
         image: "/images/work/work-img-2.jpg",
