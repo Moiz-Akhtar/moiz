@@ -94,28 +94,28 @@ const educationData = {
 const contactLinks = {
   socialLinks: [
     {
-      title: "Dribble",
-      href: "/"
+      title: "Whatsapp",
+      href: "https://wa.me/923033533388"
     },
-    {
-      title: "Facebook",
-      href: "/"
-    },
+   // {
+   //   title: "Facebook",
+   //   href: "/"
+   // },
     {
       title: "LinkedIn",
-      href: "/"
+      href: "https://www.linkedin.com/in/moiz-abdul-rauf/"
     },
   ],
   contactInfo: [
     {
       type: "email",
-      label: "hello@imsruthi.com",
-      link: "mailto:hello@imsruthi.com"
+      label: "official.moizakhtar@gmail.com",
+      link: "mailto:official.moizakhtar@gmail.com"
     },
     {
       type: "phone",
-      label: "+901 5588 2500",
-      link: "tel:+90155882500"
+      label: "+92 303 3533388",
+      link: "tel:+923033533388"
     }
   ]
 }
